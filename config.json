@@ -4,7 +4,7 @@
     "chatbot": {
         "0": { // 6883998648
             "token": "", // 7NjS6fduuiQBWlQ6YwnRDA%3D%3D
-            "bot": "chinchilla" // poe bot name
+            "bot": AssistenteBlackzBot // CopyBZS
         }
   }
 }
