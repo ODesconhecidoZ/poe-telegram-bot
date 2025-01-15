@@ -1,0 +1,10 @@
+{
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0", 
+    "token": ":", // 7688642446:AAGvNXmbZ2eSpqEZcBLqp24VQjTK_zv_KLE
+    "chatbot": {
+        "0": { // your telegram user id
+            "token": "", // poe token
+            "bot": "chinchilla" // poe bot name
+        }
+  }
+}
