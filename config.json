@@ -1,10 +1,10 @@
 {
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0", 
-    "token": ":", // 7688642446:AAGvNXmbZ2eSpqEZcBLqp24VQjTK_zv_KLE
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+    "token": "7688642446:AAGvNXmbZ2eSpqEZcBLqp24VQjTK_zv_KLE",
     "chatbot": {
-        "0": { // 6883998648
-            "token": "", // 7NjS6fduuiQBWlQ6YwnRDA%3D%3D
-            "bot": AssistenteBlackzBot // CopyBZS
+        "6883998648": {
+            "token": "7NjS6fduuiQBWlQ6YwnRDA%3D%3D",
+            "bot": "CopyBZS"
         }
-  }
+    }
 }
